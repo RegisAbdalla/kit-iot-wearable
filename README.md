@@ -15,12 +15,15 @@ Projetos relacionados ao [Kit de Desenvolvimento IoT Wearable](http://iot.telefo
 - LED RGB
 - Buzzer
 
+### Sketch Arduino
+Sketch Arduino do Kit IoT Wearable - [link](https://github.com/telefonicadigital/kit-iot-wearable-arduino)
+
 ### Apps e SDK's
 
 - Node.js [Link](https://github.com/telefonicadigital/kit-iot-wearable-node)
 - iOS - Swift [Link](https://github.com/telefonicadigital/kit-iot-wearable-ios)
 - Android [Link](https://github.com/telefonicadigital/kit-iot-wearable-android)
-
+- PhoneGap [Link](https://github.com/telefonicadigital/kit-iot-wearable-phonegap)
 
 ### Lista de comandos do Kit IoT Wearable
 
