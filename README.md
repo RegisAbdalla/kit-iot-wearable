@@ -1,4 +1,4 @@
-# Kit IoT Wearablea Telefonica VIVO
+# Kit IoT Wearable - Telefonica VIVO
 
 Projetos relacionados ao [Kit de Desenvolvimento IoT Wearable](http://iot.telefonicabeta.com/kit-iot-wearable/).
 
