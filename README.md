@@ -22,7 +22,7 @@ Projetos relacionados ao [Kit de Desenvolvimento IoT Wearable](http://iot.telefo
 [Link](https://github.com/telefonicadigital/kit-iot-wearable-node)
 
 
-### iOS
+### iOS - Swift
 
 [Link](https://github.com/telefonicadigital/kit-iot-wearable-ios)
 
