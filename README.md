@@ -28,3 +28,9 @@ Sketch Arduino do Kit IoT Wearable - [link](https://github.com/telefonicadigital
 ### Lista de comandos do Kit IoT Wearable
 
 [Link](https://github.com/telefonicadigital/kit-iot-wearable/wiki/Comandos-padr%C3%B5es-do-Wearable)
+
+
+### Autor
+| [![twitter/vitorleal](http://gravatar.com/avatar/e133221d7fbc0dee159dca127d2f6f00?s=80)](http://twitter.com/vitorleal "Follow @vitorleal on Twitter") |
+|---|
+| [Vitor Leal](http://vitorleal.com) |
